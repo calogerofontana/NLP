@@ -21,7 +21,7 @@ recommend are compatible with the needs, characteristics, and objectives of an
 identified target market and that the intended distribution strategy is consistent with
 the identified target market. Investment firms shall appropriately identify and assess
 the circumstances and needs of the clients they intend to focus on, so as to ensure
-that clients’ interests are not compromised as a result of commercial or funding
+that clients interests are not compromised as a result of commercial or funding
 pressures. As part of this process, firms shall identify any groups of clients for whose
 needs, characteristics and objectives the product or service is not compatible.
 Member States shall ensure that investment firms obtain from manufactures that are
@@ -77,7 +77,7 @@ necessary expertise to understand the characteristics and risks of the products 
 intend to offer or recommend and the services provided as well as the needs,
 characteristics and objectives of the identified target market.
 8. Member States shall require investment firms to ensure that the management body
-has effective control over the firm’s product governance process to determine the
+has effective control over the firms product governance process to determine the
 range of investment products that they offer or recommend and the services provided
 to the respective target markets. Investment firms shall ensure that the compliance
 reports to the management body systematically include information about the
