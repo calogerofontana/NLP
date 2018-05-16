@@ -33,7 +33,7 @@ the manufacturing of financial instruments possess the necessary expertise to
 understand the characteristics and risks of the financial instruments they intend to
 manufacture.
 6. Member States shall require investment firms to ensure that the management body
-has effective control over the firm’s product governance process. Investment firms
+has effective control over the firms product governance process. Investment firms
 shall ensure that the compliance reports to the management body systematically
 include information about the financial instruments manufactured by the firm,
 including information on the distribution strategy. Investment firms shall make the
@@ -70,20 +70,20 @@ of the financial instrument experiences financial difficulties or other
 counterparty risk materialises;
 (c) the financial instrument fails to become commercially viable; or
 (d) demand for the financial instrument is much higher than anticipated, putting a
-strain on the firm’s resources and/or on the market of the underlying
+strain on the firms resources and/or on the market of the underlying
 instrument.
 11. Member States shall require investment firms to determine whether a financial
 instrument meets the identified needs, characteristics and objectives of the target
 market, including by examining the following elements:
-(a) the financial instrument’s risk/reward profile is consistent with the target
+(a) the financial instruments risk/reward profile is consistent with the target
 market; and
 (b) financial instrument design is driven by features that benefit the client and not
 by a business model that relies on poor client outcomes to be profitable.
 12. Member States shall ensure that investment firms consider the charging structure
 proposed for the financial instrument, including by examining the following:
-(a) financial instrument’s costs and charges are compatible with the needs,
+(a) financial instruments costs and charges are compatible with the needs,
 objectives and characteristics of the target market;
-(b) charges do not undermine the financial instrument’s return expectations, such
+(b) charges do not undermine the financial instruments return expectations, such
 as where the costs or charges equal, exceed or remove almost all the expected
 tax advantages linked to a financial instrument; and
 (c) the charging structure of the financial instrument is appropriately transparent
